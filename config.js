@@ -21,14 +21,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['916380260672'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['916380260672'] //another owner number
-global.premium = ['916380260672'] //premium number
-global.pengguna = 'Turbo' //username
-global.botnma = 'ꪶ𝗦𝗟𝚫𝗬𝚵𝗥-𝗠𝗗ꫂ⁩⁩⁩' //bot name
-global.ownernma = 'Turbo Mods' //owner name
-global.packname = 'ꪶ𝗦𝗟𝚫𝗬𝚵𝗥-𝗠𝗗ꫂ⁩⁩⁩' //sticker package name
-global.author = 'Turbo Mods' //sticker author name
+global.owner = ['918137975623'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['918137975623'] //another owner number
+global.premium = ['918137975623'] //premium number
+global.pengguna = 'PANDA SER' //username
+global.botnma = '🇪🇬⃞⍣⍣𝐏⃡𝐀𝐍𝐃⃡𝐀⎈𝐒͢ɛ⃡ʀ⍣⍣⃞🇪🇬' //bot name
+global.ownernma = 'PANDA SER' //owner name
+global.packname = '🇪🇬⃞⍣⍣𝐏⃡𝐀𝐍𝐃⃡𝐀⎈𝐒͢ɛ⃡ʀ⍣⍣⃞🇪🇬⁩⁩⁩' //sticker package name
+global.author = 'PANDA SER' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
@@ -47,7 +47,7 @@ global.limitawal = {
     premium: "Infinity", //premium user limit
     free: 100 //free user limit
 }
-global.thumb = fs.readFileSync('./TurboMedia/slayer.jpg')
+global.thumb = fs.readFileSync('./TurboMedia/panda.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
