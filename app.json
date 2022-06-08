@@ -1,8 +1,8 @@
 {
-  "name": "Slayer-Md",
+  "name": "PANDA-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/TURBOHYPER/Slayer-Md",
-  "logo": "https://telegra.ph/file/866c11205f88ca37d26f5.jpg",
+  "logo": "https://i.imgur.com/VJFitiM.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
