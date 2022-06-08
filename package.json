@@ -61,11 +61,11 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TURBOHYPER/Slayer-Md.git"
+    "type": "",
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/TURBOHYPER/Slayer-Md/issues"
+    "url": "https://github.com/rohithahan/Slayer-Md/issues"
   },
-  "homepage": "https://github.com/TURBOHYPER/Slayer-Md#readme"
+  "homepage": "https://github.com/rohithahan/Slayer-Md#readme"
 }
