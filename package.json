@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TURBOHYPER",
+  "author": "PANDASER",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
