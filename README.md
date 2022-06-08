@@ -10,9 +10,9 @@ This Is A Beta Version Currently On Testing Don't Tell Me It's Not Working 🙂
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/TURBOHYPER/Slayer-Md/blob/master/config.json)
-- CHANGE OWNER NAME [Here](https://github.com/TURBOHYPER/Slayer-Md/blob/master/config.json)
-- CHANGE BOT NAME [Here](https://github.com/TURBOHYPER/Slayer-Md/blob/master/config.json)
+- CHANGE OWNER NUMBER [Here](https://github.com/rohithahan/Slayer-Md/blob/master/config.json)
+- CHANGE OWNER NAME [Here](https://github.com/rohithahan/Slayer-Md/blob/master/config.json)
+- CHANGE BOT NAME [Here](https://github.com/rohithahan/Slayer-Md/blob/master/config.json)
 
     
 𝗕𝘂𝗶𝗹𝗱𝗽𝗮𝗰𝗸𝘀
@@ -26,9 +26,9 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER)
+  [![Toxic-Turbo](https://github.com/rohithahan.png?size=100)](https://github.com/rohithahan)
 
-[Toxic-Turbo](https://github.com/TURBOHYPER)        
+[Panda-Ser](https://github.com/rohithahan)        
 Developer, Base, Bug Fixes, Modules
 
 ## `For Termux/Ssh/Ubuntu`
@@ -43,7 +43,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/TURBOHYPER/Slayer-Md
+git clone https://github.com/rohithahan/Slayer-Md
 cd Slayer-Md
 npm start
 ```
@@ -55,7 +55,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/TURBOHYPER/Slayer-Md
+git clone https://github.com/rohithahan/Slayer-Md
 cd Slayer-Md
 npm start
 ```
